@@ -1,0 +1,14 @@
+/Users/anushkasomani/Desktop/tx/json_rpc/target/debug/deps/serde-beb6365f03fe1f6a.d: /Users/anushkasomani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/anushkasomani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/anushkasomani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/anushkasomani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/anushkasomani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/anushkasomani/Desktop/tx/json_rpc/target/debug/build/serde-7ceb09fb5009e528/out/private.rs
+
+/Users/anushkasomani/Desktop/tx/json_rpc/target/debug/deps/libserde-beb6365f03fe1f6a.rlib: /Users/anushkasomani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/anushkasomani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/anushkasomani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/anushkasomani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/anushkasomani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/anushkasomani/Desktop/tx/json_rpc/target/debug/build/serde-7ceb09fb5009e528/out/private.rs
+
+/Users/anushkasomani/Desktop/tx/json_rpc/target/debug/deps/libserde-beb6365f03fe1f6a.rmeta: /Users/anushkasomani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/anushkasomani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/anushkasomani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/anushkasomani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/anushkasomani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/anushkasomani/Desktop/tx/json_rpc/target/debug/build/serde-7ceb09fb5009e528/out/private.rs
+
+/Users/anushkasomani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/Users/anushkasomani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/Users/anushkasomani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/Users/anushkasomani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/Users/anushkasomani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/Users/anushkasomani/Desktop/tx/json_rpc/target/debug/build/serde-7ceb09fb5009e528/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/anushkasomani/Desktop/tx/json_rpc/target/debug/build/serde-7ceb09fb5009e528/out

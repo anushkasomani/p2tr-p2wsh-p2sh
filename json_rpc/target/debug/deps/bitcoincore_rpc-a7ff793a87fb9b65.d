@@ -1,0 +1,10 @@
+/Users/anushkasomani/Desktop/tx/json_rpc/target/debug/deps/bitcoincore_rpc-a7ff793a87fb9b65.d: /Users/anushkasomani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitcoincore-rpc-0.19.0/src/lib.rs /Users/anushkasomani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitcoincore-rpc-0.19.0/src/client.rs /Users/anushkasomani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitcoincore-rpc-0.19.0/src/error.rs /Users/anushkasomani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitcoincore-rpc-0.19.0/src/queryable.rs
+
+/Users/anushkasomani/Desktop/tx/json_rpc/target/debug/deps/libbitcoincore_rpc-a7ff793a87fb9b65.rlib: /Users/anushkasomani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitcoincore-rpc-0.19.0/src/lib.rs /Users/anushkasomani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitcoincore-rpc-0.19.0/src/client.rs /Users/anushkasomani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitcoincore-rpc-0.19.0/src/error.rs /Users/anushkasomani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitcoincore-rpc-0.19.0/src/queryable.rs
+
+/Users/anushkasomani/Desktop/tx/json_rpc/target/debug/deps/libbitcoincore_rpc-a7ff793a87fb9b65.rmeta: /Users/anushkasomani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitcoincore-rpc-0.19.0/src/lib.rs /Users/anushkasomani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitcoincore-rpc-0.19.0/src/client.rs /Users/anushkasomani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitcoincore-rpc-0.19.0/src/error.rs /Users/anushkasomani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitcoincore-rpc-0.19.0/src/queryable.rs
+
+/Users/anushkasomani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitcoincore-rpc-0.19.0/src/lib.rs:
+/Users/anushkasomani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitcoincore-rpc-0.19.0/src/client.rs:
+/Users/anushkasomani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitcoincore-rpc-0.19.0/src/error.rs:
+/Users/anushkasomani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitcoincore-rpc-0.19.0/src/queryable.rs:
